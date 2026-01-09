@@ -145,7 +145,7 @@ a {
 }
 
 .social i {
-    font-size: 40px;
+    font-size: 28px;
     color: #00bfff;
 }
 
@@ -296,7 +296,7 @@ a {
 }
 
 .ico {
-    font-size: clamp(20px, 4vw, 36px);
+    font-size: clamp(15px, 4vw, 30px);
     color: rgb(255, 192, 0);
     margin-bottom: 0.45rem;
     transition: transform .22s ease;
@@ -340,7 +340,7 @@ a {
     }
 
     .skills .ico i {
-        font-size: 24px;
+        font-size: 18px;
     }
 }
 
@@ -388,14 +388,14 @@ a {
     color: white;
     flex: 0 1 140px;
     /* responsive item width */
-    min-width: 90px;
-    max-width: 220px;
+    min-width: 80px;
+    max-width: 100px;
     text-align: center;
     padding: 0.6rem;
 }
 
 .ico i {
-    font-size: clamp(28px, 6vw, 70px);
+    font-size: clamp(20px, 4vw, 50px);
     color: rgb(255, 192, 0);
 }
 
